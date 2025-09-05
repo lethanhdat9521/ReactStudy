@@ -1,0 +1,10 @@
+.calButton {
+  /* display: flex; */
+  width: 30%;
+  button {
+    width: 100%;
+  }
+}
+/* .calButton:last-of-type {
+  width: 100%;
+} */

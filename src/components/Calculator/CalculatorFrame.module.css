@@ -1,0 +1,27 @@
+.calculator-frame {
+  width: 300px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  background-color: #42972f;
+  display: flex;
+  flex-direction: column;
+}
+.calButtonRow {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+/* .calButtonRow:last-child {
+  width: 100%;
+  background-color: blue;
+} */
+/* .calButtonRow:last-child .calButton {
+  width: 100% !important;
+  background-color: blue;
+} */
+.botngot {
+  width: 100% !important;
+  background-color: #f1ddc1;
+}
